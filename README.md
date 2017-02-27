@@ -21,6 +21,14 @@ The goals / steps of this project are the following:
 [image6]: ./result.jpg "Output"
 [video1]: ./project_video.mp4 "Video"
 
+## How to execute code
+
+* Calibrate the camera `python calibrate.py`
+* Process video `python process.py`
+
+## Result video
+[Youtube](https://www.youtube.com/watch?v=rz6koLB-t_Y)
+
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 ###Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
 
